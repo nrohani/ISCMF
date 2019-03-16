@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec  5 13:01:35 2018
-
-@author: Narges Rohani (Green Blue Mind)
+@author: Narjes Rohani (GreenBlueMind)
 """
 from sklearn.preprocessing import MinMaxScaler
 import copy
