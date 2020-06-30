@@ -20,4 +20,4 @@ Please do not hesitate to contact me if you have any question:
 
 Mail: n.rohani@mail.sbu.ac.ir
 
-Please cite us if you find this study helpful.
+Please cite the paper if you find this study helpful.
